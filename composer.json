@@ -1,0 +1,11 @@
+{
+  "name": "faslatam/w3s",
+  "description": "W3CSS/W3JS FrontEnd Framework",
+  "type": "library",
+  "authors": [
+    {
+      "name": "fadrian06",
+      "email": "franyeradriansanchez@gmail.com"
+    }
+  ]
+}
