@@ -1,0 +1,17 @@
+{
+  "author": {
+    "email": "franyeradriansanchez@gmail.com",
+    "name": "faslatam",
+    "url": "https://faslatam.42web.io"
+  },
+  "bugs": {
+    "email": "franyeradriansanchez@gmail.com",
+    "url": "https://github.com/fadrian06/w3/issues"
+  },
+  "description": "W3CSS + W3JS + AppML FrontEnd Framework",
+  "homepage": "https://github.com/fadrian06/w3",
+  "name": "w3s",
+  "version": "1.0.0",
+  "main": "w3.js",
+  "type": "module"
+}
