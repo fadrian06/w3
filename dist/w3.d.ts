@@ -1,0 +1,34 @@
+export default w3;
+declare namespace w3 {
+    function hide(sel: any): void;
+    function hideElements(elements: any): void;
+    function hideElement(element: any): void;
+    function show(sel: any, a: any): void;
+    function showElements(elements: any): void;
+    function showElement(element: any): void;
+    function addStyle(sel: any, prop: any, val: any): void;
+    function styleElements(elements: any, prop: any, val: any): void;
+    function styleElement(element: any, prop: any, val: any): void;
+    function toggleShow(sel: any): void;
+    function addClass(sel: any, name: any): void;
+    function addClassElements(elements: any, name: any): void;
+    function addClassElement(element: any, name: any): void;
+    function removeClass(sel: any, name: any): void;
+    function removeClassElements(elements: any, name: any): void;
+    function removeClassElement(element: any, name: any): void;
+    function toggleClass(sel: any, c1: any, c2: any): void;
+    function toggleClassElements(elements: any, c1: any, c2: any): void;
+    function toggleClassElement(element: any, c1: any, c2: any): void;
+    function getElements(id: any): any[] | NodeListOf<any>;
+    function filterHTML(id: any, sel: any, filter: any): void;
+    function sortHTML(id: any, sel: any, sortvalue: any): void;
+    function slideshow(sel: any, ms: any, func: any): {};
+    function includeHTML(cb: any): void;
+    function getHttpData(file: any, func: any): void;
+    function getHttpObject(file: any, func: any): void;
+    function displayHttp(id: any, file: any): void;
+    function http(target: any, readyfunc: any, xml: any, method: any): void;
+    function getElementsByAttribute(x: any, att: any): any[];
+    let dataObject: {};
+    function displayObject(id: any, data: any): void;
+}

@@ -11,7 +11,11 @@
   "description": "W3CSS + W3JS + AppML FrontEnd Framework",
   "homepage": "https://github.com/fadrian06/w3",
   "name": "w3s",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "w3.js",
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "types": "dist/w3.d.ts"
 }
