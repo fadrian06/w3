@@ -1,74 +1,56 @@
-﻿.w3-2021-marigold {
-  color: #fff !important;
-  background-color: #FDAC53 !important
-}
-
-.w3-2021-cerulean {
-  color: #000 !important;
-  background-color: #9BB7D4 !important
-}
-
-.w3-2021-rust {
-  color: #fff !important;
-  background-color: #B55A30 !important
-}
-
-.w3-2021-illuminating {
-  color: #000 !important;
-  background-color: #F5DF4D !important
-}
-
-.w3-2021-french-blue {
-  color: #fff !important;
-  background-color: #0072B5 !important
-}
-
-.w3-2021-green-ash {
-  color: #000 !important;
-  background-color: #A0DAA9 !important
-}
-
-.w3-2021-burnt-coral {
-  color: #fff !important;
-  background-color: #E9897E !important
-}
-
-.w3-2021-mint {
-  color: #fff !important;
-  background-color: #00A170 !important
-}
-
-.w3-2021-amethyst-orchid {
-  color: #fff !important;
-  background-color: #926AA6 !important
-}
-
-.w3-2021-raspberry-sorbet {
-  color: #fff !important;
-  background-color: #D2386C !important
-}
-
-.w3-2021-inkwell {
-  color: #fff !important;
-  background-color: #363945 !important
-}
-
-.w3-2021-ultimate-gray {
-  color: #fff !important;
-  background-color: #939597 !important
-}
-
-.w3-2021-buttercream {
-  color: #000 !important;
-  background-color: #EFE1CE !important
-}
-
-.w3-2021-desert-mist {
-  color: #000 !important;
-  background-color: #E0B589 !important
-}
-
-.w3-2021-willow {
-  color: #fff !important;
-  background-color: #9A8B4F !important
-}
+﻿.w3-2021-peach-fuzz
+{color:#000!important;background-color:#FFBE98!important}
+.w3-2021-marigold
+{color:#000!important;background-color:#FDAC53!important}
+.w3-2021-cerulean
+{color:#000!important;background-color:#9BB7D4!important}
+.w3-2021-rust
+{color:#fff!important;background-color:#B55A30!important}
+.w3-2021-illuminating
+{color:#000!important;background-color:#F5DF4D!important}
+.w3-2021-french-blue
+{color:#fff!important;background-color:#0072B5!important}
+.w3-2021-green-ash
+{color:#000!important;background-color:#A0DAA9!important}
+.w3-2021-burnt-coral
+{color:#fff!important;background-color:#E9897E!important}
+.w3-2021-mint
+{color:#fff!important;background-color:#00A170!important}
+.w3-2021-amethyst-orchid
+{color:#fff!important;background-color:#926AA6!important}
+.w3-2021-raspberry-sorbet
+{color:#fff!important;background-color:#D2386C!important}
+.w3-2021-inkwell
+{color:#fff!important;background-color:#363945!important}
+.w3-2021-ultimate-gray,.w3-2021-ultimate-grey
+{color:#fff!important;background-color:#939597!important}
+.w3-2021-buttercream
+{color:#000!important;background-color:#EFE1CE!important}
+.w3-2021-desert-mist
+{color:#000!important;background-color:#E0B589!important}
+.w3-2021-willow
+{color:#fff!important;background-color:#9A8B4F!important}
+.w3-2021-myknos-blue
+{color:#fff!important;background-color:#005B88!important}
+.w3-2021-leprechaun
+{color:#fff!important;background-color:#378661!important}
+.w3-2021-fuchsia-fedora
+{color:#fff!important;background-color:#CA4286!important}
+.w3-2021-pale-rosette
+{color:#000!important;background-color:#FFBBB9!important}
+.w3-2021-adobe
+{color:#fff!important;background-color:#A66948!important}
+.w3-2021-fire-whirl
+{color:#fff!important;background-color:#A73730!important}
+.w3-2021-rhodonite
+{color:#fff!important;background-color:#302C4D!important}
+.w3-2021-spring-lake
+{color:#fff!important;background-color:#698295!important}
+.w3-2021-root-beer
+{color:#fff!important;background-color:#714A41!important}
+.w3-2021-coconut-cream
+{color:#000!important;background-color:#EFE3DF!important}
+.w3-2021-soybean
+{color:#000!important;background-color:#D7C49E!important}
+.w3-2021-olive-branch
+{color:#fff!important;background-color:#6A6A45!important}
